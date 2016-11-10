@@ -1,0 +1,21 @@
+.navbar-fixed-bottom, .navbar-fixed-top {
+    position: initial;
+
+}
+
+h1{
+	text-transform: uppercase;
+	color: steelblue;
+}
+
+h2,li,.starter-template{
+	text-align: center;
+}
+
+button{
+	display: inline-block;
+}
+
+.container {
+    text-align: center;
+}
